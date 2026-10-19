@@ -2,7 +2,7 @@
 
 # awesome-ai-skills
 
-[![Skills](https://img.shields.io/badge/skills-20-blue)](#skills)
+[![Skills](https://img.shields.io/badge/skills-21-blue)](#skills)
 [![Harness](https://img.shields.io/badge/works%20with-Claude%20%7C%20Codex%20%7C%20AGY-lightgrey)](#how-to-use-it)
 
 Skill files are how-to packages for an AI agent: instructions plus whatever scripts, templates or reference files the task needs. Load one and the agent stops guessing about a job it has never done.
@@ -25,6 +25,7 @@ The name is AI skills rather than Claude skills on purpose. Most of these work i
 - [Code Simplifier](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-simplifier) - Simplifies complex code while keeping behaviour, for readability and maintenance.
 - [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) - A collection covering API and architecture patterns, git and more.
 - [Code review](https://github.com/thechandanbhagat/claude-skills/blob/main/skills/code-review/SKILL.md?utm_source=chatgpt.com) - Automated reviews with security checks and refactoring suggestions.
+- [YYLO Skills](https://github.com/yylo-dev/yylo-skills) - Eight skills for planning, running and reviewing agent coding work: Ledger Record tasks, project understanding, a knowledge wiki and evidence capture, used by YYLO CLI.
 
 ### Debugging
 
